@@ -1,0 +1,19 @@
+{
+  "name": "calculon",
+  "version": "1.0.0",
+  "description": "simple calc app on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvlbl/calculon.git"
+  },
+  "author": "anvlbl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvlbl/calculon/issues"
+  },
+  "homepage": "https://github.com/anvlbl/calculon#readme"
+}
